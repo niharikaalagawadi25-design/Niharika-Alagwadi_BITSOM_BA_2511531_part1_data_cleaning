@@ -1,0 +1,32 @@
+
+# Business Data Cleaning, Validation & Excel Reporting
+
+## Problem Summary
+Retail order data required cleaning and validation before business analysis.
+
+## Dataset Description
+Order-level retail transactions with customer, product, sales, shipping and status information.
+
+## Tools Used
+Excel, Python, Pandas, OpenPyXL, Matplotlib.
+
+## Cleaning Steps Performed
+Text standardization, date validation, duplicate checks, business rule application, calculated columns.
+
+## Business Rules Applied
+Missing region/ship mode replaced with Unknown. Invalid discounts and shipping records flagged.
+
+## Summary of Data Quality Issues Found
+Missing values, duplicates, date issues, discount anomalies and status inconsistencies.
+
+## Summary of Final Pivot Reports
+Sales by region, category analysis, ship mode counts, segment profit margin, status by region and monthly trends.
+
+## Key Business Insights
+Provided through pivot reports.
+
+## Assumptions and Limitations
+Automated rule-based cleaning.
+
+## Screenshots Included
+Raw data preview, cleaned data preview and two pivot summaries.
